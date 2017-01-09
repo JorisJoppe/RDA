@@ -1,4 +1,5 @@
-| ## REFERENTIESET DATA-ANALYSE | ![Logo](images/logo.png) | 
+## REFERENTIESET DATA-ANALYSE 
+|                                         | ![Logo](images/logo.png) | 
 
 ### Introductie
 
