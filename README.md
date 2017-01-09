@@ -1,8 +1,7 @@
-## REFERENTIESET DATA-ANALYSE
-
 <p align="right">
   <img src="images/logo.png" alt="purpleyellowcircle"/>
 </p>
+## REFERENTIESET DATA-ANALYSE
 ### Introductie
 
 Het GitHub project referentieset data-analyse (hierna *RDA*) is ontstaan uit wens om kennisdeling omtrent data-analyse in domein van accountants, administratie en fiscaliteit vorm te geven. De initiërende partijen hebben daarbij bewust gekozen voor open source in de veronderstelling dat een brede groep professionals baat heeft bij, en bij wil dragen aan dit 'body of knowledge'.
