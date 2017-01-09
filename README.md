@@ -1,6 +1,9 @@
 ## REFERENTIESET DATA-ANALYSE
 
-![Logo](images/logo.png)
+<p align="right">
+  <img src="images/logo.png" alt="purpleyellowcircle"/>
+</p>
+
 
 ### Introductie
 
