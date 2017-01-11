@@ -1,6 +1,5 @@
-<p align="right">
-  <img src="images/logo.png" alt="purpleyellowcircle"/>
-</p>
+<img src="https://github.com/JorisJoppe/RDA/blob/master/images/logo.png"
+ alt="rda logo" title="logo" align="right" width="80" />
 ## REFERENTIESET DATA-ANALYSE
 ### Introductie
 
